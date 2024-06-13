@@ -1,0 +1,10 @@
+@import url('https://fonts.cdnfonts.com/css/harry-potter');
+.divHome {
+    background: linear-gradient(rgba(0,0,0,0.7), rgba(0,0,0,0.7)), url('https://i.ibb.co/g4QbPr9/harrypotter.jpg');
+    background-size: cover;
+}
+
+.fontTitle{
+    font-family: 'Harry Potter', sans-serif;
+                                                
+}
