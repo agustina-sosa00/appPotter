@@ -31,7 +31,7 @@ export const Characters = () => {
                             <img src={character.image} alt="" className='w-64 h-64 rounded-full '/>
                             <h2 className='text-center'>{character.fullName}</h2>
                             <Link to={`/character/${character.index}`}>
-                                <button>Ver mas info</button>
+                                <button>Mas Info</button>
                             </Link>
                             
                         </div>
